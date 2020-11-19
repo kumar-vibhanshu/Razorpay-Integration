@@ -1,2 +1,2 @@
-# Razorpay-Integration
- Razorpay Integration in PHP
+# Razorpay-Payment-Gateway-Integration
+ Razorpay Payment Gateway Integration
